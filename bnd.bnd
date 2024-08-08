@@ -1,0 +1,4 @@
+Bundle-Name: webcontentListener
+Bundle-SymbolicName: webcontentlistener
+Bundle-Version: 1.0.0
+Export-Package: webcontentlistener.api
